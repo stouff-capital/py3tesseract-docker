@@ -1,0 +1,7 @@
+notebook
+pillow
+pandas
+pytesseract
+python-dotenv
+requests
+wand
